@@ -13,7 +13,7 @@ El proyecto integra datos de tráfico urbano provenientes de TomTom con indicado
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab][(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SdQblj-Z-txKTkQ6VAn5ueEG7D2eK4En?usp=sharing)](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O:
 
