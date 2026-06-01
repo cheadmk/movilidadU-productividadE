@@ -11,9 +11,8 @@ El proyecto integra datos de tráfico urbano provenientes de TomTom con indicado
 
 ## ▶ Cómo abrir el notebook en Google Colab
 
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([URL_DEL_NOTEBOOK_EN_GITHUB](https://colab.research.google.com/drive/1SdQblj-Z-txKTkQ6VAn5ueEG7D2eK4En?usp=sharing))
+Haz clic en el siguiente enlace:
+https://colab.research.google.com/drive/1SdQblj-Z-txKTkQ6VAn5ueEG7D2eK4En?usp=sharing
 
 O:
 
